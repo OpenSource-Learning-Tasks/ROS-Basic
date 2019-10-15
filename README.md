@@ -1,2 +1,2 @@
 # ROS-Basic
-Basic ROS Course
+Basic and intermediate -  ROS Course
